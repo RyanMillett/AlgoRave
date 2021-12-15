@@ -1,6 +1,6 @@
 # AlgoRave
 
-The Algorithmic and Generative Music Club is an on campus club dedicated to the performance of improvised electronic music through the technique of live-coding.
+The Algorithmic and Generative Music Club (also known as the AlgoRave Club) is an on campus club dedicated to the performance of improvised electronic music through the technique of live-coding.
 
 We primarily use a Python library called FoxDot (https://github.com/Qirky/FoxDot) which interfaces with the SuperCollider interpreter and synthesis engine.
 
