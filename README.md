@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=C1NtOhmBejo&ab_channel=RyanMillett
 
 Keep in mind, all the sounds you hear are being generated and manipulated in real time entirely through the code seen on screen.  No additional external controllers are used and no pre-redered loops are being triggered.  All arrangements are crafted from the ground up algorithmically.
 
-
 A Jupyter Notebook that describes a method for generating layered percussion patterns from binary bit-strings:
 https://github.com/RyanMillett/AlgoRave/blob/main/algorave.ipynb
+
+![alt text](https://github.com/RyanMillett/AlgoRave/blob/main/screenshot.png)
