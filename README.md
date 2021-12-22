@@ -8,7 +8,7 @@ Here is a video demonstration of some live-coding jams:
 
 https://www.youtube.com/watch?v=C1NtOhmBejo&ab_channel=RyanMillett
 
-Keep in mind, all the sounds you hear are being generated and manipulated in real time entirely through the code seen on screen.  No additional external controllers are used and no pre-rendered loops are being triggered.  All arrangements are crafted from the ground up algorithmically.
+Keep in mind, all the sounds you hear are being generated and manipulated in real time entirely by the code seen on screen—the music has not been overdubbed, it is as it would be heard live.  No additional external controllers are used and no pre-rendered loops are being triggered, all synth sounds are achieved by controlling SuperCollider synthdefs from the Python interpreter via Open Sound Control. All arrangements are crafted from the ground up algorithmically.
 
 A Jupyter Notebook that describes a method for generating layered percussion patterns from binary bit-strings:
 https://github.com/RyanMillett/AlgoRave/blob/main/algorave.ipynb
