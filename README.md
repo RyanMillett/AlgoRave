@@ -6,8 +6,6 @@ We primarily use a Python library called FoxDot (https://github.com/Qirky/FoxDot
 
 Here is a video demonstration of some live-coding jams:
 
-https://www.youtube.com/watch?v=C1NtOhmBejo&ab_channel=RyanMillett
-
 [![alt text](https://i9.ytimg.com/vi/C1NtOhmBejo/mq2.jpg?sqp=CNixjo4G&rs=AOn4CLBpF4uNn804LmtH4COeOR73TKjdPw)](https://www.youtube.com/watch?v=C1NtOhmBejo&ab_channel=RyanMillett)
 
 
